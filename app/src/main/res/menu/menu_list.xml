@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:iconTint="@color/colorAccent"
+        android:id="@+id/login_activity"
+        android:title="Login"
+        app:showAsAction="collapseActionView" />
+    <item
+        android:id="@+id/forgot_activity"
+        android:title="Forgot Email"
+        app:showAsAction="collapseActionView" />
+</menu>
